@@ -21,3 +21,15 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />  
 </div>
+
+<div align="center">
+  <h2>📂 Projects</h2>
+
+  <a href="https://github.com/UndefineDDDD23/P2P_AZGPU">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=UndefineDDDD23&repo=P2P_AZGPU&theme=radical&show_owner=true&hide_border=true" alt="P2P_AZGPU" />
+  </a>
+
+  <a href="https://github.com/UndefineDDDD23/flash_cards">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=UndefineDDDD23&repo=flash_cards&theme=radical&show_owner=true&hide_border=true" alt="P2P_AZGPU" />
+  </a>
+</div>
