@@ -1,10 +1,6 @@
-<h1 align="center">
-  👋 Hi there, I'm Miroslav!
-</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=007ACC&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;PHP+%7C+JavaScript+%7C+SQL;Open+Source+Enthusiast" alt="Typing SVG">
-</p>
+  <img src="profile.gif" alt="Miroslav" width="100%" />
+
 
 <div align="">
   <h2>💻 Languages</h2>
