@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=007ACC&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;PHP+%7C+JavaScript+%7C+SQL;Open+Source+Enthusiast" alt="Typing SVG">
 </p>
 
-<div align="center">
+<div align="">
   <h2>💻 Stack Technique</h2>
 
   <h4>Languages</h4>
